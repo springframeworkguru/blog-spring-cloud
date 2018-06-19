@@ -1,0 +1,6 @@
+spring:
+  application.name: quiz-producer
+server.port: 8081
+logging:
+  level:
+    org.springframework.cloud: debug
