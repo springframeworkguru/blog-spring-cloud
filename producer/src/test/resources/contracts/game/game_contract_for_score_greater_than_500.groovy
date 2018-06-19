@@ -1,6 +1,7 @@
 import org.springframework.cloud.contract.spec.Contract
 
 Contract.make {
+	name("game-contract-for-score-greater_than_500")
 	description """
 Represents a successful scenario for playing a game
 

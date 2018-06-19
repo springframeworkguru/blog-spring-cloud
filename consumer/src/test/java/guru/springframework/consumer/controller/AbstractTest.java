@@ -1,7 +1,7 @@
-package guru.springframework.producer.controller;
+package guru.springframework.consumer.controller;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
-import guru.springframework.producer.domain.Player;
+import guru.springframework.consumer.controller.domain.Player;
 import org.junit.Before;
 import org.springframework.boot.test.json.JacksonTester;
 

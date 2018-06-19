@@ -1,6 +1,6 @@
-package guru.springframework.producer.controller;
+package guru.springframework.consumer.controller;
 
-import guru.springframework.producer.domain.Player;
+import guru.springframework.consumer.controller.domain.Player;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.MediaType;
 import org.springframework.http.RequestEntity;

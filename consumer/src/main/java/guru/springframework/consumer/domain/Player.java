@@ -1,4 +1,4 @@
-package guru.springframework.producer.domain;
+package guru.springframework.consumer.controller.domain;
 
 import lombok.AllArgsConstructor;
 import lombok.Builder;

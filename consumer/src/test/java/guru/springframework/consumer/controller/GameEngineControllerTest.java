@@ -1,10 +1,9 @@
-package guru.springframework.producer.controller;
+package guru.springframework.consumer.controller;
 
-import guru.springframework.producer.domain.Player;
+import guru.springframework.consumer.controller.domain.Player;
 import org.junit.Test;
 import org.junit.runner.RunWith;
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.beans.factory.annotation.Value;
 import org.springframework.boot.test.autoconfigure.json.AutoConfigureJsonTesters;
 import org.springframework.boot.test.autoconfigure.web.servlet.AutoConfigureMockMvc;
 import org.springframework.boot.test.context.SpringBootTest;
