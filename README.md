@@ -1,4 +1,4 @@
-# Spring Cloud Contract
+# Spring WebClient
 
 This repository is for my posts on the Spring Framework 5 and Spring Boot available  [here.](http://springframework.guru)
 
